@@ -51,8 +51,7 @@ https://beh.land
 - گیت‌هاب: https://github.com/beh-land  
 
 ### 💠 آدرس قرارداد BEHT (TON)  
-*پس از انتشار روی شبکه اصلی درج می‌شود.*
-
+https://tonviewer.com/EQDvHmcleZnYu5f0waP0cSy-vsl9GfnXMkW_sBc721wByyGX
 ---
 
 ## 🔹 نسخه  
