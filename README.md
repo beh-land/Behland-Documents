@@ -1,7 +1,7 @@
+[**نسخه فارسی**](./README_FA.md)
+
 # 📘 BehLand LitePaper  
 ### _Official English LitePaper of the BehLand Ecosystem_
-
-[**نسخه فارسی**](./README_FA.md)
 
 ![badge](https://img.shields.io/badge/Status-Official-blue)  
 ![badge](https://img.shields.io/badge/Document-LitePaper-orange)  
