@@ -13,10 +13,10 @@
 
 ---
 
-![badge](https://img.shields.io/badge/وضعیت-رسمی-blue)  
-![badge](https://img.shields.io/badge/سند-LitePaper-orange)  
-![badge](https://img.shields.io/badge/شبکه-TON-0098ea)  
-![badge](https://img.shields.io/badge/توکن-BEHT-black)
+![badge](https://img.shields.io/badge/Status-Official-blue)  
+![badge](https://img.shields.io/badge/Document-LitePaper-orange)  
+![badge](https://img.shields.io/badge/Network-TON-0098ea)  
+![badge](https://img.shields.io/badge/Token-BEHT-black)
 
 ---
 
