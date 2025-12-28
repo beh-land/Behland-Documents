@@ -1,7 +1,7 @@
 # 📚 BehLand Documentation Hub
-### _Official repository for all BehLand documents_
+### Official repository for all BehLand documents
 
-[**نسخه فارسی (Persian Version)**](./README_FA.md)
+[**Persian Version (نسخه فارسی)**](./README_FA.md)
 
 ---
 
@@ -9,46 +9,41 @@
 This repository serves as the **central documentation hub of the BehLand project**.  
 All official documents related to BehLand are publicly available here to ensure **maximum transparency, clarity, and community trust**.
 
-BehLand is a gamified financial learning ecosystem built on the **TON blockchain**, focused on verifiable education, skill-based progression, and long-term value creation.
+BehLand is a gamified financial learning ecosystem built on the **TON blockchain**, focused on **verifiable education**, **skill-based progression**, and **long-term value creation**.
 
 ---
 
 ## 📂 Repository Structure
 Each folder in this repository represents a specific part of the BehLand ecosystem.  
-You can explore any section by simply clicking on its folder to access related documents and README files.
+You can explore any section by clicking on its folder to access related documents and README files.
 
-Examples include:
+### Key sections include:
 - **LitePaper** – Vision, philosophy, token utility, learning model, and roadmap  
 - **Tokenomics** – BEHT distribution, utilities, and economic structure  
 - **Education System** – Learning paths, VIP levels, NTT/NFT mechanisms  
-- **Security & Transparency** – Wallet structure, multisig setup, financial flows  
+- **Security & Transparency** – Wallet structure, multisig setup, audit status, and disclosures  
+- **PitchDeck** – Official investment presentations (EN / FA)  
 - **Brand & Media** – Logos, visual identity, and official assets  
 
-This structure allows anyone to independently review how BehLand works.
+This structure enables independent review of how BehLand works.
 
 ---
 
 ## 🎯 Purpose of This Repository
 - Provide **open access** to all official documents  
 - Enable users, investors, and contributors to **verify information independently**  
-- Support DYOR (Do Your Own Research) principles  
-- Act as a single source of truth for the BehLand ecosystem  
+- Support **DYOR (Do Your Own Research)** principles  
+- Act as a **single source of truth** for the BehLand ecosystem  
 
 ---
 
-## 🌐 Official Links
+## 🛡️ Security & Transparency
+BehLand maintains dedicated documentation for security and transparency:
+- **SECURITY.md** – Responsible disclosure policy and reporting channels  
+- **AUDIT.md** – Current security review status and future audit references  
+- **TRANSPARENCY.md** – Wallet structure, access controls, token transparency, and official communications  
 
-### Website  
-https://beh.land
-
-### Social Media  
-- Instagram: https://instagram.com/behlandofficial  
-- X (Twitter): https://x.com/BehLandOfficial  
-- YouTube: https://www.youtube.com/@BehLandOfficial  
-- Telegram: https://t.me/BehLand_gp  
-
-### GitHub  
-https://github.com/beh-land
+These documents are intended to help external reviewers quickly understand the project’s security posture.
 
 ---
 
@@ -57,20 +52,38 @@ https://github.com/beh-land
 - **Symbol:** BEHT  
 - **Network:** TON Blockchain  
 - **Total Supply:** 10,000,000 BEHT  
+- **Contract Address:**  
+`EQDvHmcleZnYu5f0waP0cSy-vsl9GfnXMkW_sBc721wByyGX`  
+- **Explorer:**  
+https://tonviewer.com/EQDvHmcleZnYu5f0waP0cSy-vsl9GfnXMkW_sBc721wByyGX
 
-- **Token Address:** https://tonviewer.com/EQDvHmcleZnYu5f0waP0cSy-vsl9GfnXMkW_sBc721wByyGX
+---
+
+## 🌐 Official Links
+
+### Website
+https://beh.land
+
+### Social Media
+- Instagram: https://instagram.com/behlandofficial  
+- X (Twitter): https://x.com/BehLandOfficial  
+- YouTube: https://www.youtube.com/@BehLandOfficial  
+- Telegram (Community): https://t.me/BehLand_gp  
+- Telegram (Support): https://t.me/behland_admin  
+
+### GitHub
+https://github.com/beh-land
 
 ---
 
 ## 📨 Feedback & Contributions
-We welcome feedback, suggestions, and reviews from the community.  
-You can:
+We welcome feedback, suggestions, and reviews from the community. You can:
 - Open an **Issue** on GitHub  
-- Reach out through official social channels  
+- Reach out through official communication channels  
 - Review documents and share feedback transparently  
 
 ---
 
 ## 🔐 License
 All documents are published for transparency and educational purposes.  
-Specific licenses may apply to individual documents.
+Specific licenses may apply to individual documents and are noted where applicable.
