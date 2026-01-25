@@ -84,6 +84,17 @@ We welcome feedback, suggestions, and reviews from the community. You can:
 
 ---
 
+# 🏛️ Governance
+
+The roles and responsibilities within the BehLand ecosystem have been clearly documented to ensure transparency and accountability.  
+You can view the detailed roles and responsibilities of the core team members and decision-making processes in the following document:
+
+- [Roles and Team - Governance Structure](./Governance/Roles-And-Team.md)
+
+These roles and responsibilities have been defined for **clear accountability** and **effective decision-making** within the project.
+
+---
+
 ## 🔐 License
 All documents are published for transparency and educational purposes.  
 Specific licenses may apply to individual documents and are noted where applicable.
