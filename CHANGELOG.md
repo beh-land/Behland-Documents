@@ -7,6 +7,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Added
 - Future documentation updates will be tracked here before release.
 
+## [1.0.3] - 2026-06-09
+### Added
+- Added the `Team/` documentation section.
+- Added `Team/README.md` with the current BehLand project members, roles, profile photo URLs, specialties, social links, and personal statements.
+- Added a clear update policy stating that future team changes must be published on the Team page.
+- Added the current Telegram Mini App access point to the MVP documentation: `@behland_bot`.
+
+### Changed
+- Updated the main English and Persian repository README files to include the Team section.
+- Updated MVP documentation to mention that the current version is accessible through the official Telegram Mini App.
+
 ## [1.0.2] - 2026-05-14
 ### Added
 - Added the `MVP/` documentation section.

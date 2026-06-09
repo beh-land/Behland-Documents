@@ -85,6 +85,16 @@ At the time of writing this document:
 - the main goal of the first version is to provide a sufficient experience for understanding the idea and receiving early approval from an evaluator or reviewer.
 
 This status should be updated periodically based on real product progress.
+---
+
+## Current MVP Access
+
+The current BehLand MVP is accessible through the official Telegram Mini App via the BehLand bot:
+
+- **Telegram Bot:** [@behland_bot](https://t.me/behland_bot)
+
+This access point allows early users and reviewers to experience the current product flow directly inside Telegram while the platform continues to evolve toward the full web and app ecosystem.
+
 
 ---
 
