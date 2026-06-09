@@ -22,6 +22,7 @@ You can explore any section by clicking on its folder to access related document
 - **MVP** – Minimum Viable Product plan, phased product scope, and early validation strategy  
 - **Tokenomics** – BEHT distribution, utilities, and economic structure  
 - **Education System** – Learning paths, VIP levels, NTT/NFT mechanisms  
+- **Team** – Current project members, roles, profile references, and public statements  
 - **Security & Transparency** – Wallet structure, multisig setup, audit status, and disclosures  
 - **PitchDeck** – Official investment presentations (EN / FA)  
 - **Brand & Media** – Logos, visual identity, and official assets  
@@ -47,6 +48,16 @@ Read the MVP documentation here:
 
 - [BehLand MVP Development Plan](./MVP/README.md)
 - [برنامه توسعه MVP به‌لند](./MVP/README_FA.md)
+
+---
+
+## 👥 Team Documentation
+
+The BehLand Team page introduces the current project members, their roles, profile photo references, specialties, and personal statements about themselves and the project.
+
+This page is the official public team registry for the documentation repository. Future team changes should be published there.
+
+- [BehLand Team](./Team/README.md)
 
 ---
 
@@ -86,6 +97,7 @@ https://tonviewer.com/EQDvHmcleZnYu5f0waP0cSy-vsl9GfnXMkW_sBc721wByyGX
 https://beh.land
 
 ### Social Media
+- Telegram Mini App / Bot: https://t.me/behland_bot  
 - Instagram: https://instagram.com/behlandofficial  
 - X (Twitter): https://x.com/BehLandOfficial  
 - YouTube: https://www.youtube.com/@BehLandOfficial  
