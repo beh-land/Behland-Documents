@@ -135,3 +135,11 @@ https://github.com/beh-land
 ممکن است برخی فایل‌ها دارای لایسنس‌های اختصاصی باشند که در همان بخش مشخص شده است.
 
 </div>
+
+
+## مستندات به‌روزشده V3
+
+- [سیستم آموزشی](Education-System/README.md)
+- [کاراکترها](Characters/README_FA.md)
+- [توکنومیک](Tokenomics/README.md)
+- [حاکمیت](Governance/DAO-Governance.md)

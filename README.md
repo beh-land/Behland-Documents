@@ -140,3 +140,11 @@ These roles and responsibilities have been defined for **clear accountability** 
 ## 🔐 License
 All documents are published for transparency and educational purposes.  
 Specific licenses may apply to individual documents and are noted where applicable.
+
+
+## Updated V3 Documentation
+
+- [Education System](Education-System/README.md)
+- [Characters](Characters/README.md)
+- [Tokenomics](Tokenomics/README.md)
+- [Governance](Governance/DAO-Governance.md)
