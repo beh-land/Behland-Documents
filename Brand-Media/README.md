@@ -1,11 +1,9 @@
-# 📚 Brand-Media
+# Brand and Media
 
-This folder contains documentation related to the Brand-Media aspect of the BehLand ecosystem.
+BehLand communicates its mission as a human growth network.
 
-### Documents available in this section:
-- Overview of the Brand-Media
-- Current status: (Draft) / (In Progress) / (Stable)
-- Last updated: [Date]
+Core message:
 
-Further documentation will be added as the project evolves. Please refer to the individual documents within this folder for more details.
+Learning, skill, and meaningful contribution create value.
 
+Official brand materials such as LitePaper and Pitch Deck are maintained separately.

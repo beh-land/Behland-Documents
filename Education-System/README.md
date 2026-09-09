@@ -1,43 +1,36 @@
-# 📚 BehLand Education System
+# BehLand Education System
 
-This folder contains documentation related to the educational structure of the BehLand ecosystem.
+## Overview
 
-BehLand’s education system is designed around structured learning, VIP progression, exercises, missions, streaks, NTT-based educational identity, and motivational rewards based on real learning activity.
+BehLand transforms learning from content consumption into a measurable growth journey.
 
----
+## Learning Structure
 
-## Available Documents
+The educational path is organized into four levels:
 
-### Product & MVP
-- [BehLand MVP Development Plan](../MVP/README.md)
-- [برنامه توسعه MVP به‌لند](../MVP/README_FA.md)
+- Level 0: Introduction
+- Level 1: Foundation
+- Level 2: Applied Skills
+- Level 3: Professional Level
 
-The MVP document explains how the first usable version of BehLand demonstrates the education flow through VIP0 videos, quizzes, exercises, scoring, progress bars, character reactions, social profiles, wallet visibility, NTT, BEHT, and phased product growth.
+## Course Model
 
----
+Each learning path can include:
+- Lessons
+- Exercises
+- Missions
+- Assessments
 
-## Current Status
+## Mastery Gate
 
-| Area | Status |
-|---|---|
-| VIP0 learning flow | In progress / partially implemented |
-| Standard MVP Level 1 | Approximately 70% completed |
-| Optimized MVP Level 2 components | Some parts exist or are being prepared |
-| Full VIP1–VIP3 educational reward system | Planned for later MVP phases |
-| NTT-based educational identity | Planned / in development |
+Progression requires real achievement, including learning activity, exercises, missions, assessments, and compliance with ecosystem rules.
 
----
+## XP and PoHW
 
-## Future Documentation
+XP represents activity and participation. It does not determine financial rewards or educational mastery.
 
-Additional education-specific documents may be added here, including:
+PoHW (Proof of Human Work) measures valuable human contribution and is calculated separately for different roles.
 
-- Learning Path
-- VIP Levels
-- Quiz and Exercise Logic
-- Mission and Streak System
-- NTT / NFT Educational Identity
-- Reward Calculation Rules
-- Character-Based Learning Experience
+## Identity System
 
-Further documentation will be added as the product evolves.
+Learning achievements are recorded through NTT (Non-Transferable Tokens). Social roles use Role NFTs, where ownership does not automatically grant role authority.
